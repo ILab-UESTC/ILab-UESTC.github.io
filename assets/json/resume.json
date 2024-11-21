@@ -2,7 +2,7 @@
   "basics": {
     "name": "Albert Einstein",
     "label": "Scientist",
-    "image": "",
+    "image": "https://i-uestc.github.io/images/gu_yu.png",
     "email": "albert@einstein.de",
     "phone": "(912) 123-4567",
     "url": "https://alshedivat.github.io/al-folio/",
